@@ -83,7 +83,9 @@ img {
   height: auto;
 } 
 
-.imglist li {   margin: 5px; } 
+.imglist li {
+  margin: 5px;
+} 
 
 @media all and (min-width: 600px) {
   
