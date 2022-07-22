@@ -14,7 +14,7 @@
 
 header {
   background: #333;
-  color: #FFF;
+  color: #32cd32;
   padding: 20px;
 }
 
@@ -85,7 +85,7 @@ img {
 
 .imglist li {
   margin: 5px;
-} 
+}
 
 @media all and (min-width: 600px) {
   
